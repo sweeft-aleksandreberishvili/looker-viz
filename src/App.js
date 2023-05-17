@@ -38,6 +38,7 @@ const App = ({ data, config, queryResponse }) => {
   );
 
   console.log({ rowData, pivots, config });
+  console.log({ dimensions });
 
   const [columnDefs, setColumnDefs] = useState(() => [
     {
