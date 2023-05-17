@@ -1,0 +1,938 @@
+{
+  "parent_id": "51b84f2fa734739f189ac9779fdb9e4a",
+  "sql_changed": false,
+  "aggregate_table_used_info": null,
+  "added_params": null,
+  "data": [
+    {
+      "kmeans_model5.centroid_id": {
+        "value": "Cluster #1"
+      },
+      "kmeans_model5.avg_qty": {
+        "accessories": {
+          "value": 0.1564630384642782
+        },
+        "active": {
+          "value": 0.03988359592114857
+        },
+        "cancel": {
+          "value": 0.04108195487673614
+        },
+        "capris": {
+          "value": 0.003942567742239299
+        },
+        "dresses": {
+          "value": 0.05716647163957381
+        },
+        "fashion": {
+          "value": 0.059824657699133574
+        },
+        "jackets": {
+          "value": 0.0289195759283128
+        },
+        "jeans": {
+          "value": 0.15002791008767102
+        },
+        "outerwear": {
+          "value": 0.011845745984642136
+        },
+        "pants": {
+          "value": 0.0692556263087424
+        },
+        "shorts": {
+          "value": 0.09406172430951637
+        },
+        "skirts": {
+          "value": 0.0381190918890099
+        },
+        "sleepwear": {
+          "value": 0.03859825221639233
+        },
+        "sweaters": {
+          "value": 0.0515332427280633
+        },
+        "swim": {
+          "value": 0.042592641344012666
+        },
+        "tops_and_tees": {
+          "value": 0.025694001978887437
+        },
+        "underwear": {
+          "value": 0.004650885160655049
+        }
+      }
+    },
+    {
+      "kmeans_model5.centroid_id": {
+        "value": "Cluster #2"
+      },
+      "kmeans_model5.avg_qty": {
+        "accessories": {
+          "value": 0.03399203917009122
+        },
+        "active": {
+          "value": 0.02548874564092342
+        },
+        "cancel": {
+          "value": 0.03381591461481617
+        },
+        "capris": {
+          "value": 0.00035224911057236095
+        },
+        "dresses": {
+          "value": 0.011971186022751872
+        },
+        "fashion": {
+          "value": 0.011800345204122153
+        },
+        "jackets": {
+          "value": 0.00572757053788368
+        },
+        "jeans": {
+          "value": 0.03169009123251422
+        },
+        "outerwear": {
+          "value": 0.003147345802952478
+        },
+        "pants": {
+          "value": 0.016051991968713965
+        },
+        "shorts": {
+          "value": 0.01978054880412225
+        },
+        "skirts": {
+          "value": 0.007893902567895988
+        },
+        "sleepwear": {
+          "value": 0.008068265877629151
+        },
+        "sweaters": {
+          "value": 0.011758075310852784
+        },
+        "swim": {
+          "value": 0.010570995808235745
+        },
+        "tops_and_tees": {
+          "value": 0.8086882243122798
+        },
+        "underwear": {
+          "value": 0.0004315051604514633
+        }
+      }
+    },
+    {
+      "kmeans_model5.centroid_id": {
+        "value": "Cluster #3"
+      },
+      "kmeans_model5.avg_qty": {
+        "accessories": {
+          "value": 0.029105176856408704
+        },
+        "active": {
+          "value": 0.021082220660575454
+        },
+        "cancel": {
+          "value": 0.047786366830639984
+        },
+        "capris": {
+          "value": 0.7759428437573276
+        },
+        "dresses": {
+          "value": 0.012532208948232655
+        },
+        "fashion": {
+          "value": 0.007495900679316929
+        },
+        "jackets": {
+          "value": 0.01036542515811624
+        },
+        "jeans": {
+          "value": 0.030627781681889926
+        },
+        "outerwear": {
+          "value": 0.011068165846802001
+        },
+        "pants": {
+          "value": 0.012122276879832368
+        },
+        "shorts": {
+          "value": 0.010716795502458396
+        },
+        "skirts": {
+          "value": 0.014464745842117276
+        },
+        "sleepwear": {
+          "value": 0.008667135160459527
+        },
+        "sweaters": {
+          "value": 0.012590770672288632
+        },
+        "swim": {
+          "value": 0.012590770672288275
+        },
+        "tops_and_tees": {
+          "value": 0.028636683063950036
+        },
+        "underwear": {
+          "value": 0.0014054813773716306
+        }
+      }
+    },
+    {
+      "kmeans_model5.centroid_id": {
+        "value": "Cluster #4"
+      },
+      "kmeans_model5.avg_qty": {
+        "accessories": {
+          "value": 0.01969297801194088
+        },
+        "active": {
+          "value": 0.5240061471949131
+        },
+        "cancel": {
+          "value": 0.028574323639678316
+        },
+        "capris": {
+          "value": 0.0003158036950738803
+        },
+        "dresses": {
+          "value": 0.005694599250174154
+        },
+        "fashion": {
+          "value": 0.008497990340115676
+        },
+        "jackets": {
+          "value": 0.0029925355490248613
+        },
+        "jeans": {
+          "value": 0.019052926672735684
+        },
+        "outerwear": {
+          "value": 0.381897861992056
+        },
+        "pants": {
+          "value": 0.010811632384226569
+        },
+        "shorts": {
+          "value": 0.012377140541091056
+        },
+        "skirts": {
+          "value": 0.004357077718105486
+        },
+        "sleepwear": {
+          "value": 0.005083257337793745
+        },
+        "sweaters": {
+          "value": 0.006743337724177352
+        },
+        "swim": {
+          "value": 0.0038419968250727465
+        },
+        "tops_and_tees": {
+          "value": 0.014358090992001582
+        },
+        "underwear": {
+          "value": 0.00037153375891067764
+        }
+      }
+    },
+    {
+      "kmeans_model5.centroid_id": {
+        "value": "Cluster #5"
+      },
+      "kmeans_model5.avg_qty": {
+        "accessories": {
+          "value": 0.04091810430299625
+        },
+        "active": {
+          "value": 0.02708705135831771
+        },
+        "cancel": {
+          "value": 0.035693039857228166
+        },
+        "capris": {
+          "value": 0.00014872099940461264
+        },
+        "dresses": {
+          "value": 0.007981360301408225
+        },
+        "fashion": {
+          "value": 0.013950029744200794
+        },
+        "jackets": {
+          "value": 0.0010906206623036048
+        },
+        "jeans": {
+          "value": 0.03470156652785729
+        },
+        "outerwear": {
+          "value": 0.015665278604005045
+        },
+        "pants": {
+          "value": 0.023953995637518315
+        },
+        "shorts": {
+          "value": 0.02111838191552526
+        },
+        "skirts": {
+          "value": 0.005651397977393967
+        },
+        "sleepwear": {
+          "value": 0.01130279595478936
+        },
+        "sweaters": {
+          "value": 0.012393416617093058
+        },
+        "swim": {
+          "value": 0.009418996628990203
+        },
+        "tops_and_tees": {
+          "value": 0.028306563553441536
+        },
+        "underwear": {
+          "value": 0.7750148720999446
+        }
+      }
+    }
+  ],
+  "drill_menu_build_time": 0.068902,
+  "expired": false,
+  "fields": {
+    "measures": [
+      {
+        "align": "right",
+        "can_filter": true,
+        "category": "measure",
+        "default_filter_value": null,
+        "description": "",
+        "enumerations": null,
+        "field_group_label": null,
+        "fill_style": null,
+        "fiscal_month_offset": 0,
+        "has_allowed_values": false,
+        "hidden": false,
+        "is_filter": false,
+        "is_numeric": true,
+        "label": "Kmeans Model5 Avg Qty",
+        "label_from_parameter": null,
+        "label_short": "Avg Qty",
+        "map_layer": null,
+        "name": "kmeans_model5.avg_qty",
+        "strict_value_format": false,
+        "requires_refresh_on_sort": false,
+        "sortable": true,
+        "suggestions": null,
+        "tags": [],
+        "type": "max",
+        "user_attribute_filter_types": ["number", "advanced_filter_number"],
+        "value_format": null,
+        "view": "kmeans_model5",
+        "view_label": "Kmeans Model5",
+        "dynamic": false,
+        "week_start_day": "monday",
+        "original_view": "kmeans_model5",
+        "dimension_group": null,
+        "error": null,
+        "field_group_variant": "Avg Qty",
+        "measure": true,
+        "parameter": false,
+        "primary_key": false,
+        "project_name": "looker_partner_demo",
+        "scope": "kmeans_model5",
+        "suggest_dimension": "kmeans_model5.avg_qty",
+        "suggest_explore": "kmeans_model5",
+        "suggestable": false,
+        "is_fiscal": false,
+        "is_timeframe": false,
+        "can_time_filter": false,
+        "time_interval": null,
+        "lookml_link": "/projects/looker_partner_demo/files/views%2Fecomm_bqml_eval.view.lkml?line=204",
+        "permanent": null,
+        "source_file": "views/ecomm_bqml_eval.view.lkml",
+        "source_file_path": "looker_partner_demo/views/ecomm_bqml_eval.view.lkml",
+        "sql": "${TABLE}.numerical_value ",
+        "sql_case": null,
+        "filters": null,
+        "times_used": 0
+      }
+    ],
+    "dimensions": [
+      {
+        "align": "left",
+        "can_filter": true,
+        "category": "dimension",
+        "default_filter_value": null,
+        "description": "",
+        "enumerations": null,
+        "field_group_label": null,
+        "fill_style": null,
+        "fiscal_month_offset": 0,
+        "has_allowed_values": false,
+        "hidden": false,
+        "is_filter": false,
+        "is_numeric": false,
+        "label": "Kmeans Model5 Centroid ID",
+        "label_from_parameter": null,
+        "label_short": "Centroid ID",
+        "map_layer": null,
+        "name": "kmeans_model5.centroid_id",
+        "strict_value_format": false,
+        "requires_refresh_on_sort": false,
+        "sortable": true,
+        "suggestions": null,
+        "tags": [],
+        "type": "string",
+        "user_attribute_filter_types": ["string", "advanced_filter_string"],
+        "value_format": null,
+        "view": "kmeans_model5",
+        "view_label": "Kmeans Model5",
+        "dynamic": false,
+        "week_start_day": "monday",
+        "original_view": "kmeans_model5",
+        "dimension_group": null,
+        "error": null,
+        "field_group_variant": "Centroid ID",
+        "measure": false,
+        "parameter": false,
+        "primary_key": false,
+        "project_name": "looker_partner_demo",
+        "scope": "kmeans_model5",
+        "suggest_dimension": "kmeans_model5.centroid_id",
+        "suggest_explore": "kmeans_model5",
+        "suggestable": true,
+        "is_fiscal": false,
+        "is_timeframe": false,
+        "can_time_filter": false,
+        "time_interval": null,
+        "lookml_link": "/projects/looker_partner_demo/files/views%2Fecomm_bqml_eval.view.lkml?line=173",
+        "permanent": null,
+        "source_file": "views/ecomm_bqml_eval.view.lkml",
+        "source_file_path": "looker_partner_demo/views/ecomm_bqml_eval.view.lkml",
+        "sql": "CONCAT(\"Cluster #\", CAST(${TABLE}.centroid_id AS STRING)) ",
+        "sql_case": null,
+        "filters": null,
+        "times_used": 0,
+        "sorted": {
+          "desc": false,
+          "sort_index": 1
+        }
+      }
+    ],
+    "table_calculations": [],
+    "pivots": [
+      {
+        "align": "left",
+        "can_filter": true,
+        "category": "dimension",
+        "default_filter_value": null,
+        "description": "",
+        "enumerations": null,
+        "field_group_label": null,
+        "fill_style": null,
+        "fiscal_month_offset": 0,
+        "has_allowed_values": false,
+        "hidden": false,
+        "is_filter": false,
+        "is_numeric": false,
+        "label": "Kmeans Model5 Feature",
+        "label_from_parameter": null,
+        "label_short": "Feature",
+        "map_layer": null,
+        "name": "kmeans_model5.feature",
+        "strict_value_format": false,
+        "requires_refresh_on_sort": false,
+        "sortable": true,
+        "suggestions": null,
+        "tags": [],
+        "type": "string",
+        "user_attribute_filter_types": ["string", "advanced_filter_string"],
+        "value_format": null,
+        "view": "kmeans_model5",
+        "view_label": "Kmeans Model5",
+        "dynamic": false,
+        "week_start_day": "monday",
+        "original_view": "kmeans_model5",
+        "dimension_group": null,
+        "error": null,
+        "field_group_variant": "Feature",
+        "measure": false,
+        "parameter": false,
+        "primary_key": false,
+        "project_name": "looker_partner_demo",
+        "scope": "kmeans_model5",
+        "suggest_dimension": "kmeans_model5.feature",
+        "suggest_explore": "kmeans_model5",
+        "suggestable": true,
+        "is_fiscal": false,
+        "is_timeframe": false,
+        "can_time_filter": false,
+        "time_interval": null,
+        "lookml_link": "/projects/looker_partner_demo/files/views%2Fecomm_bqml_eval.view.lkml?line=178",
+        "permanent": null,
+        "source_file": "views/ecomm_bqml_eval.view.lkml",
+        "source_file_path": "looker_partner_demo/views/ecomm_bqml_eval.view.lkml",
+        "sql": "CASE\n            WHEN ${TABLE}.feature = \"accessories_avg_qty\" THEN \"accessories\"\n            WHEN ${TABLE}.feature = \"active_avg_qty\" THEN \"active\"\n            WHEN ${TABLE}.feature = \"blazers_and_jackets_avg_qty\" THEN \"jackets\"\n            WHEN ${TABLE}.feature = \"cancel_order\" THEN \"cancel\"\n            WHEN ${TABLE}.feature = \"fashion_hoodie_avg_qty\" THEN \"fashion\"\n            WHEN ${TABLE}.feature = \"jeans_avg_qty\" THEN \"jeans\"\n            WHEN ${TABLE}.feature = \"outerwear_and_coats_avg_qty\" THEN \"outerwear\"\n            WHEN ${TABLE}.feature = \"pants_and_capris_avg_qty\" THEN \"capris\"\n            WHEN ${TABLE}.feature = \"pants_avg_qty\" THEN \"pants\"\n            WHEN ${TABLE}.feature = \"shorts_avg_qty\" THEN \"shorts\"\n            WHEN ${TABLE}.feature = \"skirts_avg_qty\" THEN \"skirts\"\n            WHEN ${TABLE}.feature = \"sleep_and_lounge_avg_qty\" THEN \"sleepwear\"\n            WHEN ${TABLE}.feature = \"sweaters_avg_qty\" THEN \"sweaters\"\n            WHEN ${TABLE}.feature = \"swim_avg_qty\" THEN \"swim\"\n            WHEN ${TABLE}.feature = \"tops_and_tees_avg_qty\" THEN \"tops_and_tees\"\n            WHEN ${TABLE}.feature = \"underwear_avg_qty\" THEN \"underwear\"\n            WHEN ${TABLE}.feature = \"dresses_avg_qty\" THEN \"dresses\"\n          ELSE\n            ${TABLE}.feature\n          END\n         ",
+        "sql_case": null,
+        "filters": null,
+        "times_used": 0,
+        "sorted": {
+          "desc": false,
+          "sort_index": 0
+        }
+      }
+    ],
+    "measure_like": [
+      {
+        "align": "right",
+        "can_filter": true,
+        "category": "measure",
+        "default_filter_value": null,
+        "description": "",
+        "enumerations": null,
+        "field_group_label": null,
+        "fill_style": null,
+        "fiscal_month_offset": 0,
+        "has_allowed_values": false,
+        "hidden": false,
+        "is_filter": false,
+        "is_numeric": true,
+        "label": "Kmeans Model5 Avg Qty",
+        "label_from_parameter": null,
+        "label_short": "Avg Qty",
+        "map_layer": null,
+        "name": "kmeans_model5.avg_qty",
+        "strict_value_format": false,
+        "requires_refresh_on_sort": false,
+        "sortable": true,
+        "suggestions": null,
+        "tags": [],
+        "type": "max",
+        "user_attribute_filter_types": ["number", "advanced_filter_number"],
+        "value_format": null,
+        "view": "kmeans_model5",
+        "view_label": "Kmeans Model5",
+        "dynamic": false,
+        "week_start_day": "monday",
+        "original_view": "kmeans_model5",
+        "dimension_group": null,
+        "error": null,
+        "field_group_variant": "Avg Qty",
+        "measure": true,
+        "parameter": false,
+        "primary_key": false,
+        "project_name": "looker_partner_demo",
+        "scope": "kmeans_model5",
+        "suggest_dimension": "kmeans_model5.avg_qty",
+        "suggest_explore": "kmeans_model5",
+        "suggestable": false,
+        "is_fiscal": false,
+        "is_timeframe": false,
+        "can_time_filter": false,
+        "time_interval": null,
+        "lookml_link": "/projects/looker_partner_demo/files/views%2Fecomm_bqml_eval.view.lkml?line=204",
+        "permanent": null,
+        "source_file": "views/ecomm_bqml_eval.view.lkml",
+        "source_file_path": "looker_partner_demo/views/ecomm_bqml_eval.view.lkml",
+        "sql": "${TABLE}.numerical_value ",
+        "sql_case": null,
+        "filters": null,
+        "times_used": 0
+      }
+    ],
+    "supermeasure_like": [],
+    "dimension_like": [
+      {
+        "align": "left",
+        "can_filter": true,
+        "category": "dimension",
+        "default_filter_value": null,
+        "description": "",
+        "enumerations": null,
+        "field_group_label": null,
+        "fill_style": null,
+        "fiscal_month_offset": 0,
+        "has_allowed_values": false,
+        "hidden": false,
+        "is_filter": false,
+        "is_numeric": false,
+        "label": "Kmeans Model5 Centroid ID",
+        "label_from_parameter": null,
+        "label_short": "Centroid ID",
+        "map_layer": null,
+        "name": "kmeans_model5.centroid_id",
+        "strict_value_format": false,
+        "requires_refresh_on_sort": false,
+        "sortable": true,
+        "suggestions": null,
+        "tags": [],
+        "type": "string",
+        "user_attribute_filter_types": ["string", "advanced_filter_string"],
+        "value_format": null,
+        "view": "kmeans_model5",
+        "view_label": "Kmeans Model5",
+        "dynamic": false,
+        "week_start_day": "monday",
+        "original_view": "kmeans_model5",
+        "dimension_group": null,
+        "error": null,
+        "field_group_variant": "Centroid ID",
+        "measure": false,
+        "parameter": false,
+        "primary_key": false,
+        "project_name": "looker_partner_demo",
+        "scope": "kmeans_model5",
+        "suggest_dimension": "kmeans_model5.centroid_id",
+        "suggest_explore": "kmeans_model5",
+        "suggestable": true,
+        "is_fiscal": false,
+        "is_timeframe": false,
+        "can_time_filter": false,
+        "time_interval": null,
+        "lookml_link": "/projects/looker_partner_demo/files/views%2Fecomm_bqml_eval.view.lkml?line=173",
+        "permanent": null,
+        "source_file": "views/ecomm_bqml_eval.view.lkml",
+        "source_file_path": "looker_partner_demo/views/ecomm_bqml_eval.view.lkml",
+        "sql": "CONCAT(\"Cluster #\", CAST(${TABLE}.centroid_id AS STRING)) ",
+        "sql_case": null,
+        "filters": null,
+        "times_used": 0,
+        "sorted": {
+          "desc": false,
+          "sort_index": 1
+        }
+      }
+    ]
+  },
+  "fill_fields": [],
+  "forecast_result": null,
+  "has_row_totals": false,
+  "has_totals": false,
+  "id": "query-result-197:{\"hidden_points_if_no\":[],\"hidden_fields\":[]}",
+  "null_sort_treatment": "low",
+  "number_format": "1,234.56",
+  "pivots": [
+    {
+      "key": "accessories",
+      "data": {
+        "kmeans_model5.feature": "accessories"
+      },
+      "sort_values": {
+        "kmeans_model5.feature": "accessories"
+      },
+      "labels": {
+        "kmeans_model5.feature": "accessories"
+      },
+      "is_total": false,
+      "metadata": {
+        "kmeans_model5.feature": {
+          "value": "accessories"
+        }
+      }
+    },
+    {
+      "key": "active",
+      "data": {
+        "kmeans_model5.feature": "active"
+      },
+      "sort_values": {
+        "kmeans_model5.feature": "active"
+      },
+      "labels": {
+        "kmeans_model5.feature": "active"
+      },
+      "is_total": false,
+      "metadata": {
+        "kmeans_model5.feature": {
+          "value": "active"
+        }
+      }
+    },
+    {
+      "key": "cancel",
+      "data": {
+        "kmeans_model5.feature": "cancel"
+      },
+      "sort_values": {
+        "kmeans_model5.feature": "cancel"
+      },
+      "labels": {
+        "kmeans_model5.feature": "cancel"
+      },
+      "is_total": false,
+      "metadata": {
+        "kmeans_model5.feature": {
+          "value": "cancel"
+        }
+      }
+    },
+    {
+      "key": "capris",
+      "data": {
+        "kmeans_model5.feature": "capris"
+      },
+      "sort_values": {
+        "kmeans_model5.feature": "capris"
+      },
+      "labels": {
+        "kmeans_model5.feature": "capris"
+      },
+      "is_total": false,
+      "metadata": {
+        "kmeans_model5.feature": {
+          "value": "capris"
+        }
+      }
+    },
+    {
+      "key": "dresses",
+      "data": {
+        "kmeans_model5.feature": "dresses"
+      },
+      "sort_values": {
+        "kmeans_model5.feature": "dresses"
+      },
+      "labels": {
+        "kmeans_model5.feature": "dresses"
+      },
+      "is_total": false,
+      "metadata": {
+        "kmeans_model5.feature": {
+          "value": "dresses"
+        }
+      }
+    },
+    {
+      "key": "fashion",
+      "data": {
+        "kmeans_model5.feature": "fashion"
+      },
+      "sort_values": {
+        "kmeans_model5.feature": "fashion"
+      },
+      "labels": {
+        "kmeans_model5.feature": "fashion"
+      },
+      "is_total": false,
+      "metadata": {
+        "kmeans_model5.feature": {
+          "value": "fashion"
+        }
+      }
+    },
+    {
+      "key": "jackets",
+      "data": {
+        "kmeans_model5.feature": "jackets"
+      },
+      "sort_values": {
+        "kmeans_model5.feature": "jackets"
+      },
+      "labels": {
+        "kmeans_model5.feature": "jackets"
+      },
+      "is_total": false,
+      "metadata": {
+        "kmeans_model5.feature": {
+          "value": "jackets"
+        }
+      }
+    },
+    {
+      "key": "jeans",
+      "data": {
+        "kmeans_model5.feature": "jeans"
+      },
+      "sort_values": {
+        "kmeans_model5.feature": "jeans"
+      },
+      "labels": {
+        "kmeans_model5.feature": "jeans"
+      },
+      "is_total": false,
+      "metadata": {
+        "kmeans_model5.feature": {
+          "value": "jeans"
+        }
+      }
+    },
+    {
+      "key": "outerwear",
+      "data": {
+        "kmeans_model5.feature": "outerwear"
+      },
+      "sort_values": {
+        "kmeans_model5.feature": "outerwear"
+      },
+      "labels": {
+        "kmeans_model5.feature": "outerwear"
+      },
+      "is_total": false,
+      "metadata": {
+        "kmeans_model5.feature": {
+          "value": "outerwear"
+        }
+      }
+    },
+    {
+      "key": "pants",
+      "data": {
+        "kmeans_model5.feature": "pants"
+      },
+      "sort_values": {
+        "kmeans_model5.feature": "pants"
+      },
+      "labels": {
+        "kmeans_model5.feature": "pants"
+      },
+      "is_total": false,
+      "metadata": {
+        "kmeans_model5.feature": {
+          "value": "pants"
+        }
+      }
+    },
+    {
+      "key": "shorts",
+      "data": {
+        "kmeans_model5.feature": "shorts"
+      },
+      "sort_values": {
+        "kmeans_model5.feature": "shorts"
+      },
+      "labels": {
+        "kmeans_model5.feature": "shorts"
+      },
+      "is_total": false,
+      "metadata": {
+        "kmeans_model5.feature": {
+          "value": "shorts"
+        }
+      }
+    },
+    {
+      "key": "skirts",
+      "data": {
+        "kmeans_model5.feature": "skirts"
+      },
+      "sort_values": {
+        "kmeans_model5.feature": "skirts"
+      },
+      "labels": {
+        "kmeans_model5.feature": "skirts"
+      },
+      "is_total": false,
+      "metadata": {
+        "kmeans_model5.feature": {
+          "value": "skirts"
+        }
+      }
+    },
+    {
+      "key": "sleepwear",
+      "data": {
+        "kmeans_model5.feature": "sleepwear"
+      },
+      "sort_values": {
+        "kmeans_model5.feature": "sleepwear"
+      },
+      "labels": {
+        "kmeans_model5.feature": "sleepwear"
+      },
+      "is_total": false,
+      "metadata": {
+        "kmeans_model5.feature": {
+          "value": "sleepwear"
+        }
+      }
+    },
+    {
+      "key": "sweaters",
+      "data": {
+        "kmeans_model5.feature": "sweaters"
+      },
+      "sort_values": {
+        "kmeans_model5.feature": "sweaters"
+      },
+      "labels": {
+        "kmeans_model5.feature": "sweaters"
+      },
+      "is_total": false,
+      "metadata": {
+        "kmeans_model5.feature": {
+          "value": "sweaters"
+        }
+      }
+    },
+    {
+      "key": "swim",
+      "data": {
+        "kmeans_model5.feature": "swim"
+      },
+      "sort_values": {
+        "kmeans_model5.feature": "swim"
+      },
+      "labels": {
+        "kmeans_model5.feature": "swim"
+      },
+      "is_total": false,
+      "metadata": {
+        "kmeans_model5.feature": {
+          "value": "swim"
+        }
+      }
+    },
+    {
+      "key": "tops_and_tees",
+      "data": {
+        "kmeans_model5.feature": "tops_and_tees"
+      },
+      "sort_values": {
+        "kmeans_model5.feature": "tops_and_tees"
+      },
+      "labels": {
+        "kmeans_model5.feature": "tops_and_tees"
+      },
+      "is_total": false,
+      "metadata": {
+        "kmeans_model5.feature": {
+          "value": "tops_and_tees",
+          "filterable_value": "\"tops_and_tees\""
+        }
+      }
+    },
+    {
+      "key": "underwear",
+      "data": {
+        "kmeans_model5.feature": "underwear"
+      },
+      "sort_values": {
+        "kmeans_model5.feature": "underwear"
+      },
+      "labels": {
+        "kmeans_model5.feature": "underwear"
+      },
+      "is_total": false,
+      "metadata": {
+        "kmeans_model5.feature": {
+          "value": "underwear"
+        }
+      }
+    }
+  ],
+  "ran_at": "2023-05-15T07:34:40+00:00",
+  "runtime": "2.427",
+  "sql": "WITH kmeans_model5 AS (SELECT\n      5 as clusters_num\n      , *\n      FROM ML.CENTROIDS(MODEL `looker-private-demo.ecomm.kmeans_model5`)\n       )\nSELECT\n    CASE\n            WHEN kmeans_model5.feature = \"accessories_avg_qty\" THEN \"accessories\"\n            WHEN kmeans_model5.feature = \"active_avg_qty\" THEN \"active\"\n            WHEN kmeans_model5.feature = \"blazers_and_jackets_avg_qty\" THEN \"jackets\"\n            WHEN kmeans_model5.feature = \"cancel_order\" THEN \"cancel\"\n            WHEN kmeans_model5.feature = \"fashion_hoodie_avg_qty\" THEN \"fashion\"\n            WHEN kmeans_model5.feature = \"jeans_avg_qty\" THEN \"jeans\"\n            WHEN kmeans_model5.feature = \"outerwear_and_coats_avg_qty\" THEN \"outerwear\"\n            WHEN kmeans_model5.feature = \"pants_and_capris_avg_qty\" THEN \"capris\"\n            WHEN kmeans_model5.feature = \"pants_avg_qty\" THEN \"pants\"\n            WHEN kmeans_model5.feature = \"shorts_avg_qty\" THEN \"shorts\"\n            WHEN kmeans_model5.feature = \"skirts_avg_qty\" THEN \"skirts\"\n            WHEN kmeans_model5.feature = \"sleep_and_lounge_avg_qty\" THEN \"sleepwear\"\n            WHEN kmeans_model5.feature = \"sweaters_avg_qty\" THEN \"sweaters\"\n            WHEN kmeans_model5.feature = \"swim_avg_qty\" THEN \"swim\"\n            WHEN kmeans_model5.feature = \"tops_and_tees_avg_qty\" THEN \"tops_and_tees\"\n            WHEN kmeans_model5.feature = \"underwear_avg_qty\" THEN \"underwear\"\n            WHEN kmeans_model5.feature = \"dresses_avg_qty\" THEN \"dresses\"\n          ELSE\n            kmeans_model5.feature\n          END\n          AS kmeans_model5_feature,\n    CONCAT(\"Cluster #\", CAST(kmeans_model5.centroid_id AS STRING))  AS kmeans_model5_centroid_id,\n    MAX(kmeans_model5.numerical_value ) AS kmeans_model5_avg_qty\nFROM kmeans_model5\nWHERE (CASE\n            WHEN kmeans_model5.feature = \"accessories_avg_qty\" THEN \"accessories\"\n            WHEN kmeans_model5.feature = \"active_avg_qty\" THEN \"active\"\n            WHEN kmeans_model5.feature = \"blazers_and_jackets_avg_qty\" THEN \"jackets\"\n            WHEN kmeans_model5.feature = \"cancel_order\" THEN \"cancel\"\n            WHEN kmeans_model5.feature = \"fashion_hoodie_avg_qty\" THEN \"fashion\"\n            WHEN kmeans_model5.feature = \"jeans_avg_qty\" THEN \"jeans\"\n            WHEN kmeans_model5.feature = \"outerwear_and_coats_avg_qty\" THEN \"outerwear\"\n            WHEN kmeans_model5.feature = \"pants_and_capris_avg_qty\" THEN \"capris\"\n            WHEN kmeans_model5.feature = \"pants_avg_qty\" THEN \"pants\"\n            WHEN kmeans_model5.feature = \"shorts_avg_qty\" THEN \"shorts\"\n            WHEN kmeans_model5.feature = \"skirts_avg_qty\" THEN \"skirts\"\n            WHEN kmeans_model5.feature = \"sleep_and_lounge_avg_qty\" THEN \"sleepwear\"\n            WHEN kmeans_model5.feature = \"sweaters_avg_qty\" THEN \"sweaters\"\n            WHEN kmeans_model5.feature = \"swim_avg_qty\" THEN \"swim\"\n            WHEN kmeans_model5.feature = \"tops_and_tees_avg_qty\" THEN \"tops_and_tees\"\n            WHEN kmeans_model5.feature = \"underwear_avg_qty\" THEN \"underwear\"\n            WHEN kmeans_model5.feature = \"dresses_avg_qty\" THEN \"dresses\"\n          ELSE\n            kmeans_model5.feature\n          END\n         ) <> 'add_to_cart' AND ((CASE\n            WHEN kmeans_model5.feature = \"accessories_avg_qty\" THEN \"accessories\"\n            WHEN kmeans_model5.feature = \"active_avg_qty\" THEN \"active\"\n            WHEN kmeans_model5.feature = \"blazers_and_jackets_avg_qty\" THEN \"jackets\"\n            WHEN kmeans_model5.feature = \"cancel_order\" THEN \"cancel\"\n            WHEN kmeans_model5.feature = \"fashion_hoodie_avg_qty\" THEN \"fashion\"\n            WHEN kmeans_model5.feature = \"jeans_avg_qty\" THEN \"jeans\"\n            WHEN kmeans_model5.feature = \"outerwear_and_coats_avg_qty\" THEN \"outerwear\"\n            WHEN kmeans_model5.feature = \"pants_and_capris_avg_qty\" THEN \"capris\"\n            WHEN kmeans_model5.feature = \"pants_avg_qty\" THEN \"pants\"\n            WHEN kmeans_model5.feature = \"shorts_avg_qty\" THEN \"shorts\"\n            WHEN kmeans_model5.feature = \"skirts_avg_qty\" THEN \"skirts\"\n            WHEN kmeans_model5.feature = \"sleep_and_lounge_avg_qty\" THEN \"sleepwear\"\n            WHEN kmeans_model5.feature = \"sweaters_avg_qty\" THEN \"sweaters\"\n            WHEN kmeans_model5.feature = \"swim_avg_qty\" THEN \"swim\"\n            WHEN kmeans_model5.feature = \"tops_and_tees_avg_qty\" THEN \"tops_and_tees\"\n            WHEN kmeans_model5.feature = \"underwear_avg_qty\" THEN \"underwear\"\n            WHEN kmeans_model5.feature = \"dresses_avg_qty\" THEN \"dresses\"\n          ELSE\n            kmeans_model5.feature\n          END\n         ) <> 'email' AND (CASE\n            WHEN kmeans_model5.feature = \"accessories_avg_qty\" THEN \"accessories\"\n            WHEN kmeans_model5.feature = \"active_avg_qty\" THEN \"active\"\n            WHEN kmeans_model5.feature = \"blazers_and_jackets_avg_qty\" THEN \"jackets\"\n            WHEN kmeans_model5.feature = \"cancel_order\" THEN \"cancel\"\n            WHEN kmeans_model5.feature = \"fashion_hoodie_avg_qty\" THEN \"fashion\"\n            WHEN kmeans_model5.feature = \"jeans_avg_qty\" THEN \"jeans\"\n            WHEN kmeans_model5.feature = \"outerwear_and_coats_avg_qty\" THEN \"outerwear\"\n            WHEN kmeans_model5.feature = \"pants_and_capris_avg_qty\" THEN \"capris\"\n            WHEN kmeans_model5.feature = \"pants_avg_qty\" THEN \"pants\"\n            WHEN kmeans_model5.feature = \"shorts_avg_qty\" THEN \"shorts\"\n            WHEN kmeans_model5.feature = \"skirts_avg_qty\" THEN \"skirts\"\n            WHEN kmeans_model5.feature = \"sleep_and_lounge_avg_qty\" THEN \"sleepwear\"\n            WHEN kmeans_model5.feature = \"sweaters_avg_qty\" THEN \"sweaters\"\n            WHEN kmeans_model5.feature = \"swim_avg_qty\" THEN \"swim\"\n            WHEN kmeans_model5.feature = \"tops_and_tees_avg_qty\" THEN \"tops_and_tees\"\n            WHEN kmeans_model5.feature = \"underwear_avg_qty\" THEN \"underwear\"\n            WHEN kmeans_model5.feature = \"dresses_avg_qty\" THEN \"dresses\"\n          ELSE\n            kmeans_model5.feature\n          END\n         ) <> 'event_usage') AND ((CASE\n            WHEN kmeans_model5.feature = \"accessories_avg_qty\" THEN \"accessories\"\n            WHEN kmeans_model5.feature = \"active_avg_qty\" THEN \"active\"\n            WHEN kmeans_model5.feature = \"blazers_and_jackets_avg_qty\" THEN \"jackets\"\n            WHEN kmeans_model5.feature = \"cancel_order\" THEN \"cancel\"\n            WHEN kmeans_model5.feature = \"fashion_hoodie_avg_qty\" THEN \"fashion\"\n            WHEN kmeans_model5.feature = \"jeans_avg_qty\" THEN \"jeans\"\n            WHEN kmeans_model5.feature = \"outerwear_and_coats_avg_qty\" THEN \"outerwear\"\n            WHEN kmeans_model5.feature = \"pants_and_capris_avg_qty\" THEN \"capris\"\n            WHEN kmeans_model5.feature = \"pants_avg_qty\" THEN \"pants\"\n            WHEN kmeans_model5.feature = \"shorts_avg_qty\" THEN \"shorts\"\n            WHEN kmeans_model5.feature = \"skirts_avg_qty\" THEN \"skirts\"\n            WHEN kmeans_model5.feature = \"sleep_and_lounge_avg_qty\" THEN \"sleepwear\"\n            WHEN kmeans_model5.feature = \"sweaters_avg_qty\" THEN \"sweaters\"\n            WHEN kmeans_model5.feature = \"swim_avg_qty\" THEN \"swim\"\n            WHEN kmeans_model5.feature = \"tops_and_tees_avg_qty\" THEN \"tops_and_tees\"\n            WHEN kmeans_model5.feature = \"underwear_avg_qty\" THEN \"underwear\"\n            WHEN kmeans_model5.feature = \"dresses_avg_qty\" THEN \"dresses\"\n          ELSE\n            kmeans_model5.feature\n          END\n         ) <> 'avg_unit_price' AND ((CASE\n            WHEN kmeans_model5.feature = \"accessories_avg_qty\" THEN \"accessories\"\n            WHEN kmeans_model5.feature = \"active_avg_qty\" THEN \"active\"\n            WHEN kmeans_model5.feature = \"blazers_and_jackets_avg_qty\" THEN \"jackets\"\n            WHEN kmeans_model5.feature = \"cancel_order\" THEN \"cancel\"\n            WHEN kmeans_model5.feature = \"fashion_hoodie_avg_qty\" THEN \"fashion\"\n            WHEN kmeans_model5.feature = \"jeans_avg_qty\" THEN \"jeans\"\n            WHEN kmeans_model5.feature = \"outerwear_and_coats_avg_qty\" THEN \"outerwear\"\n            WHEN kmeans_model5.feature = \"pants_and_capris_avg_qty\" THEN \"capris\"\n            WHEN kmeans_model5.feature = \"pants_avg_qty\" THEN \"pants\"\n            WHEN kmeans_model5.feature = \"shorts_avg_qty\" THEN \"shorts\"\n            WHEN kmeans_model5.feature = \"skirts_avg_qty\" THEN \"skirts\"\n            WHEN kmeans_model5.feature = \"sleep_and_lounge_avg_qty\" THEN \"sleepwear\"\n            WHEN kmeans_model5.feature = \"sweaters_avg_qty\" THEN \"sweaters\"\n            WHEN kmeans_model5.feature = \"swim_avg_qty\" THEN \"swim\"\n            WHEN kmeans_model5.feature = \"tops_and_tees_avg_qty\" THEN \"tops_and_tees\"\n            WHEN kmeans_model5.feature = \"underwear_avg_qty\" THEN \"underwear\"\n            WHEN kmeans_model5.feature = \"dresses_avg_qty\" THEN \"dresses\"\n          ELSE\n            kmeans_model5.feature\n          END\n         ) <> 'avg_quantity_per_order' AND (CASE\n            WHEN kmeans_model5.feature = \"accessories_avg_qty\" THEN \"accessories\"\n            WHEN kmeans_model5.feature = \"active_avg_qty\" THEN \"active\"\n            WHEN kmeans_model5.feature = \"blazers_and_jackets_avg_qty\" THEN \"jackets\"\n            WHEN kmeans_model5.feature = \"cancel_order\" THEN \"cancel\"\n            WHEN kmeans_model5.feature = \"fashion_hoodie_avg_qty\" THEN \"fashion\"\n            WHEN kmeans_model5.feature = \"jeans_avg_qty\" THEN \"jeans\"\n            WHEN kmeans_model5.feature = \"outerwear_and_coats_avg_qty\" THEN \"outerwear\"\n            WHEN kmeans_model5.feature = \"pants_and_capris_avg_qty\" THEN \"capris\"\n            WHEN kmeans_model5.feature = \"pants_avg_qty\" THEN \"pants\"\n            WHEN kmeans_model5.feature = \"shorts_avg_qty\" THEN \"shorts\"\n            WHEN kmeans_model5.feature = \"skirts_avg_qty\" THEN \"skirts\"\n            WHEN kmeans_model5.feature = \"sleep_and_lounge_avg_qty\" THEN \"sleepwear\"\n            WHEN kmeans_model5.feature = \"sweaters_avg_qty\" THEN \"sweaters\"\n            WHEN kmeans_model5.feature = \"swim_avg_qty\" THEN \"swim\"\n            WHEN kmeans_model5.feature = \"tops_and_tees_avg_qty\" THEN \"tops_and_tees\"\n            WHEN kmeans_model5.feature = \"underwear_avg_qty\" THEN \"underwear\"\n            WHEN kmeans_model5.feature = \"dresses_avg_qty\" THEN \"dresses\"\n          ELSE\n            kmeans_model5.feature\n          END\n         ) <> 'sock_avg_qty')) AND ((CASE\n            WHEN kmeans_model5.feature = \"accessories_avg_qty\" THEN \"accessories\"\n            WHEN kmeans_model5.feature = \"active_avg_qty\" THEN \"active\"\n            WHEN kmeans_model5.feature = \"blazers_and_jackets_avg_qty\" THEN \"jackets\"\n            WHEN kmeans_model5.feature = \"cancel_order\" THEN \"cancel\"\n            WHEN kmeans_model5.feature = \"fashion_hoodie_avg_qty\" THEN \"fashion\"\n            WHEN kmeans_model5.feature = \"jeans_avg_qty\" THEN \"jeans\"\n            WHEN kmeans_model5.feature = \"outerwear_and_coats_avg_qty\" THEN \"outerwear\"\n            WHEN kmeans_model5.feature = \"pants_and_capris_avg_qty\" THEN \"capris\"\n            WHEN kmeans_model5.feature = \"pants_avg_qty\" THEN \"pants\"\n            WHEN kmeans_model5.feature = \"shorts_avg_qty\" THEN \"shorts\"\n            WHEN kmeans_model5.feature = \"skirts_avg_qty\" THEN \"skirts\"\n            WHEN kmeans_model5.feature = \"sleep_and_lounge_avg_qty\" THEN \"sleepwear\"\n            WHEN kmeans_model5.feature = \"sweaters_avg_qty\" THEN \"sweaters\"\n            WHEN kmeans_model5.feature = \"swim_avg_qty\" THEN \"swim\"\n            WHEN kmeans_model5.feature = \"tops_and_tees_avg_qty\" THEN \"tops_and_tees\"\n            WHEN kmeans_model5.feature = \"underwear_avg_qty\" THEN \"underwear\"\n            WHEN kmeans_model5.feature = \"dresses_avg_qty\" THEN \"dresses\"\n          ELSE\n            kmeans_model5.feature\n          END\n         ) <> 'maternity_avg_qty' AND ((CASE\n            WHEN kmeans_model5.feature = \"accessories_avg_qty\" THEN \"accessories\"\n            WHEN kmeans_model5.feature = \"active_avg_qty\" THEN \"active\"\n            WHEN kmeans_model5.feature = \"blazers_and_jackets_avg_qty\" THEN \"jackets\"\n            WHEN kmeans_model5.feature = \"cancel_order\" THEN \"cancel\"\n            WHEN kmeans_model5.feature = \"fashion_hoodie_avg_qty\" THEN \"fashion\"\n            WHEN kmeans_model5.feature = \"jeans_avg_qty\" THEN \"jeans\"\n            WHEN kmeans_model5.feature = \"outerwear_and_coats_avg_qty\" THEN \"outerwear\"\n            WHEN kmeans_model5.feature = \"pants_and_capris_avg_qty\" THEN \"capris\"\n            WHEN kmeans_model5.feature = \"pants_avg_qty\" THEN \"pants\"\n            WHEN kmeans_model5.feature = \"shorts_avg_qty\" THEN \"shorts\"\n            WHEN kmeans_model5.feature = \"skirts_avg_qty\" THEN \"skirts\"\n            WHEN kmeans_model5.feature = \"sleep_and_lounge_avg_qty\" THEN \"sleepwear\"\n            WHEN kmeans_model5.feature = \"sweaters_avg_qty\" THEN \"sweaters\"\n            WHEN kmeans_model5.feature = \"swim_avg_qty\" THEN \"swim\"\n            WHEN kmeans_model5.feature = \"tops_and_tees_avg_qty\" THEN \"tops_and_tees\"\n            WHEN kmeans_model5.feature = \"underwear_avg_qty\" THEN \"underwear\"\n            WHEN kmeans_model5.feature = \"dresses_avg_qty\" THEN \"dresses\"\n          ELSE\n            kmeans_model5.feature\n          END\n         ) <> 'leggings_avg_qty' AND (CASE\n            WHEN kmeans_model5.feature = \"accessories_avg_qty\" THEN \"accessories\"\n            WHEN kmeans_model5.feature = \"active_avg_qty\" THEN \"active\"\n            WHEN kmeans_model5.feature = \"blazers_and_jackets_avg_qty\" THEN \"jackets\"\n            WHEN kmeans_model5.feature = \"cancel_order\" THEN \"cancel\"\n            WHEN kmeans_model5.feature = \"fashion_hoodie_avg_qty\" THEN \"fashion\"\n            WHEN kmeans_model5.feature = \"jeans_avg_qty\" THEN \"jeans\"\n            WHEN kmeans_model5.feature = \"outerwear_and_coats_avg_qty\" THEN \"outerwear\"\n            WHEN kmeans_model5.feature = \"pants_and_capris_avg_qty\" THEN \"capris\"\n            WHEN kmeans_model5.feature = \"pants_avg_qty\" THEN \"pants\"\n            WHEN kmeans_model5.feature = \"shorts_avg_qty\" THEN \"shorts\"\n            WHEN kmeans_model5.feature = \"skirts_avg_qty\" THEN \"skirts\"\n            WHEN kmeans_model5.feature = \"sleep_and_lounge_avg_qty\" THEN \"sleepwear\"\n            WHEN kmeans_model5.feature = \"sweaters_avg_qty\" THEN \"sweaters\"\n            WHEN kmeans_model5.feature = \"swim_avg_qty\" THEN \"swim\"\n            WHEN kmeans_model5.feature = \"tops_and_tees_avg_qty\" THEN \"tops_and_tees\"\n            WHEN kmeans_model5.feature = \"underwear_avg_qty\" THEN \"underwear\"\n            WHEN kmeans_model5.feature = \"dresses_avg_qty\" THEN \"dresses\"\n          ELSE\n            kmeans_model5.feature\n          END\n         ) <> 'jumpsuits_and_rompers_avg_qty') AND ((CASE\n            WHEN kmeans_model5.feature = \"accessories_avg_qty\" THEN \"accessories\"\n            WHEN kmeans_model5.feature = \"active_avg_qty\" THEN \"active\"\n            WHEN kmeans_model5.feature = \"blazers_and_jackets_avg_qty\" THEN \"jackets\"\n            WHEN kmeans_model5.feature = \"cancel_order\" THEN \"cancel\"\n            WHEN kmeans_model5.feature = \"fashion_hoodie_avg_qty\" THEN \"fashion\"\n            WHEN kmeans_model5.feature = \"jeans_avg_qty\" THEN \"jeans\"\n            WHEN kmeans_model5.feature = \"outerwear_and_coats_avg_qty\" THEN \"outerwear\"\n            WHEN kmeans_model5.feature = \"pants_and_capris_avg_qty\" THEN \"capris\"\n            WHEN kmeans_model5.feature = \"pants_avg_qty\" THEN \"pants\"\n            WHEN kmeans_model5.feature = \"shorts_avg_qty\" THEN \"shorts\"\n            WHEN kmeans_model5.feature = \"skirts_avg_qty\" THEN \"skirts\"\n            WHEN kmeans_model5.feature = \"sleep_and_lounge_avg_qty\" THEN \"sleepwear\"\n            WHEN kmeans_model5.feature = \"sweaters_avg_qty\" THEN \"sweaters\"\n            WHEN kmeans_model5.feature = \"swim_avg_qty\" THEN \"swim\"\n            WHEN kmeans_model5.feature = \"tops_and_tees_avg_qty\" THEN \"tops_and_tees\"\n            WHEN kmeans_model5.feature = \"underwear_avg_qty\" THEN \"underwear\"\n            WHEN kmeans_model5.feature = \"dresses_avg_qty\" THEN \"dresses\"\n          ELSE\n            kmeans_model5.feature\n          END\n         ) <> 'home_visits' AND ((CASE\n            WHEN kmeans_model5.feature = \"accessories_avg_qty\" THEN \"accessories\"\n            WHEN kmeans_model5.feature = \"active_avg_qty\" THEN \"active\"\n            WHEN kmeans_model5.feature = \"blazers_and_jackets_avg_qty\" THEN \"jackets\"\n            WHEN kmeans_model5.feature = \"cancel_order\" THEN \"cancel\"\n            WHEN kmeans_model5.feature = \"fashion_hoodie_avg_qty\" THEN \"fashion\"\n            WHEN kmeans_model5.feature = \"jeans_avg_qty\" THEN \"jeans\"\n            WHEN kmeans_model5.feature = \"outerwear_and_coats_avg_qty\" THEN \"outerwear\"\n            WHEN kmeans_model5.feature = \"pants_and_capris_avg_qty\" THEN \"capris\"\n            WHEN kmeans_model5.feature = \"pants_avg_qty\" THEN \"pants\"\n            WHEN kmeans_model5.feature = \"shorts_avg_qty\" THEN \"shorts\"\n            WHEN kmeans_model5.feature = \"skirts_avg_qty\" THEN \"skirts\"\n            WHEN kmeans_model5.feature = \"sleep_and_lounge_avg_qty\" THEN \"sleepwear\"\n            WHEN kmeans_model5.feature = \"sweaters_avg_qty\" THEN \"sweaters\"\n            WHEN kmeans_model5.feature = \"swim_avg_qty\" THEN \"swim\"\n            WHEN kmeans_model5.feature = \"tops_and_tees_avg_qty\" THEN \"tops_and_tees\"\n            WHEN kmeans_model5.feature = \"underwear_avg_qty\" THEN \"underwear\"\n            WHEN kmeans_model5.feature = \"dresses_avg_qty\" THEN \"dresses\"\n          ELSE\n            kmeans_model5.feature\n          END\n         ) <> 'clothing_sets_avg_qty' AND (CASE\n            WHEN kmeans_model5.feature = \"accessories_avg_qty\" THEN \"accessories\"\n            WHEN kmeans_model5.feature = \"active_avg_qty\" THEN \"active\"\n            WHEN kmeans_model5.feature = \"blazers_and_jackets_avg_qty\" THEN \"jackets\"\n            WHEN kmeans_model5.feature = \"cancel_order\" THEN \"cancel\"\n            WHEN kmeans_model5.feature = \"fashion_hoodie_avg_qty\" THEN \"fashion\"\n            WHEN kmeans_model5.feature = \"jeans_avg_qty\" THEN \"jeans\"\n            WHEN kmeans_model5.feature = \"outerwear_and_coats_avg_qty\" THEN \"outerwear\"\n            WHEN kmeans_model5.feature = \"pants_and_capris_avg_qty\" THEN \"capris\"\n            WHEN kmeans_model5.feature = \"pants_avg_qty\" THEN \"pants\"\n            WHEN kmeans_model5.feature = \"shorts_avg_qty\" THEN \"shorts\"\n            WHEN kmeans_model5.feature = \"skirts_avg_qty\" THEN \"skirts\"\n            WHEN kmeans_model5.feature = \"sleep_and_lounge_avg_qty\" THEN \"sleepwear\"\n            WHEN kmeans_model5.feature = \"sweaters_avg_qty\" THEN \"sweaters\"\n            WHEN kmeans_model5.feature = \"swim_avg_qty\" THEN \"swim\"\n            WHEN kmeans_model5.feature = \"tops_and_tees_avg_qty\" THEN \"tops_and_tees\"\n            WHEN kmeans_model5.feature = \"underwear_avg_qty\" THEN \"underwear\"\n            WHEN kmeans_model5.feature = \"dresses_avg_qty\" THEN \"dresses\"\n          ELSE\n            kmeans_model5.feature\n          END\n         ) <> 'purchases'))) OR (CASE\n            WHEN kmeans_model5.feature = \"accessories_avg_qty\" THEN \"accessories\"\n            WHEN kmeans_model5.feature = \"active_avg_qty\" THEN \"active\"\n            WHEN kmeans_model5.feature = \"blazers_and_jackets_avg_qty\" THEN \"jackets\"\n            WHEN kmeans_model5.feature = \"cancel_order\" THEN \"cancel\"\n            WHEN kmeans_model5.feature = \"fashion_hoodie_avg_qty\" THEN \"fashion\"\n            WHEN kmeans_model5.feature = \"jeans_avg_qty\" THEN \"jeans\"\n            WHEN kmeans_model5.feature = \"outerwear_and_coats_avg_qty\" THEN \"outerwear\"\n            WHEN kmeans_model5.feature = \"pants_and_capris_avg_qty\" THEN \"capris\"\n            WHEN kmeans_model5.feature = \"pants_avg_qty\" THEN \"pants\"\n            WHEN kmeans_model5.feature = \"shorts_avg_qty\" THEN \"shorts\"\n            WHEN kmeans_model5.feature = \"skirts_avg_qty\" THEN \"skirts\"\n            WHEN kmeans_model5.feature = \"sleep_and_lounge_avg_qty\" THEN \"sleepwear\"\n            WHEN kmeans_model5.feature = \"sweaters_avg_qty\" THEN \"sweaters\"\n            WHEN kmeans_model5.feature = \"swim_avg_qty\" THEN \"swim\"\n            WHEN kmeans_model5.feature = \"tops_and_tees_avg_qty\" THEN \"tops_and_tees\"\n            WHEN kmeans_model5.feature = \"underwear_avg_qty\" THEN \"underwear\"\n            WHEN kmeans_model5.feature = \"dresses_avg_qty\" THEN \"dresses\"\n          ELSE\n            kmeans_model5.feature\n          END\n         ) IS NULL\nGROUP BY\n    1,\n    2\nLIMIT 30000",
+  "sql_explain": null,
+  "supports_pivot_in_db": true,
+  "timezone": "UTC",
+  "is_local": true,
+  "table_calcs_complete": true,
+  "tracked_attributes": {
+    "result.drill_menu_build_time": 0.068902,
+    "result.from_cache": true,
+    "result.runtime": "2.427",
+    "result.sql.length": 20209,
+    "result.supports_pivot_in_db": true
+  },
+  "sorts": []
+}

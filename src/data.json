@@ -1,0 +1,292 @@
+[
+  {
+    "kmeans_model5.centroid_id": {
+      "value": "Cluster #1"
+    },
+    "kmeans_model5.avg_qty": {
+      "accessories": {
+        "value": 0.1564630384642782
+      },
+      "active": {
+        "value": 0.03988359592114857
+      },
+      "cancel": {
+        "value": 0.04108195487673614
+      },
+      "capris": {
+        "value": 0.003942567742239299
+      },
+      "dresses": {
+        "value": 0.05716647163957381
+      },
+      "fashion": {
+        "value": 0.059824657699133574
+      },
+      "jackets": {
+        "value": 0.0289195759283128
+      },
+      "jeans": {
+        "value": 0.15002791008767102
+      },
+      "outerwear": {
+        "value": 0.011845745984642136
+      },
+      "pants": {
+        "value": 0.0692556263087424
+      },
+      "shorts": {
+        "value": 0.09406172430951637
+      },
+      "skirts": {
+        "value": 0.0381190918890099
+      },
+      "sleepwear": {
+        "value": 0.03859825221639233
+      },
+      "sweaters": {
+        "value": 0.0515332427280633
+      },
+      "swim": {
+        "value": 0.042592641344012666
+      },
+      "tops_and_tees": {
+        "value": 0.025694001978887437
+      },
+      "underwear": {
+        "value": 0.004650885160655049
+      }
+    }
+  },
+  {
+    "kmeans_model5.centroid_id": {
+      "value": "Cluster #2"
+    },
+    "kmeans_model5.avg_qty": {
+      "accessories": {
+        "value": 0.03399203917009122
+      },
+      "active": {
+        "value": 0.02548874564092342
+      },
+      "cancel": {
+        "value": 0.03381591461481617
+      },
+      "capris": {
+        "value": 0.00035224911057236095
+      },
+      "dresses": {
+        "value": 0.011971186022751872
+      },
+      "fashion": {
+        "value": 0.011800345204122153
+      },
+      "jackets": {
+        "value": 0.00572757053788368
+      },
+      "jeans": {
+        "value": 0.03169009123251422
+      },
+      "outerwear": {
+        "value": 0.003147345802952478
+      },
+      "pants": {
+        "value": 0.016051991968713965
+      },
+      "shorts": {
+        "value": 0.01978054880412225
+      },
+      "skirts": {
+        "value": 0.007893902567895988
+      },
+      "sleepwear": {
+        "value": 0.008068265877629151
+      },
+      "sweaters": {
+        "value": 0.011758075310852784
+      },
+      "swim": {
+        "value": 0.010570995808235745
+      },
+      "tops_and_tees": {
+        "value": 0.8086882243122798
+      },
+      "underwear": {
+        "value": 0.0004315051604514633
+      }
+    }
+  },
+  {
+    "kmeans_model5.centroid_id": {
+      "value": "Cluster #3"
+    },
+    "kmeans_model5.avg_qty": {
+      "accessories": {
+        "value": 0.029105176856408704
+      },
+      "active": {
+        "value": 0.021082220660575454
+      },
+      "cancel": {
+        "value": 0.047786366830639984
+      },
+      "capris": {
+        "value": 0.7759428437573276
+      },
+      "dresses": {
+        "value": 0.012532208948232655
+      },
+      "fashion": {
+        "value": 0.007495900679316929
+      },
+      "jackets": {
+        "value": 0.01036542515811624
+      },
+      "jeans": {
+        "value": 0.030627781681889926
+      },
+      "outerwear": {
+        "value": 0.011068165846802001
+      },
+      "pants": {
+        "value": 0.012122276879832368
+      },
+      "shorts": {
+        "value": 0.010716795502458396
+      },
+      "skirts": {
+        "value": 0.014464745842117276
+      },
+      "sleepwear": {
+        "value": 0.008667135160459527
+      },
+      "sweaters": {
+        "value": 0.012590770672288632
+      },
+      "swim": {
+        "value": 0.012590770672288275
+      },
+      "tops_and_tees": {
+        "value": 0.028636683063950036
+      },
+      "underwear": {
+        "value": 0.0014054813773716306
+      }
+    }
+  },
+  {
+    "kmeans_model5.centroid_id": {
+      "value": "Cluster #4"
+    },
+    "kmeans_model5.avg_qty": {
+      "accessories": {
+        "value": 0.01969297801194088
+      },
+      "active": {
+        "value": 0.5240061471949131
+      },
+      "cancel": {
+        "value": 0.028574323639678316
+      },
+      "capris": {
+        "value": 0.0003158036950738803
+      },
+      "dresses": {
+        "value": 0.005694599250174154
+      },
+      "fashion": {
+        "value": 0.008497990340115676
+      },
+      "jackets": {
+        "value": 0.0029925355490248613
+      },
+      "jeans": {
+        "value": 0.019052926672735684
+      },
+      "outerwear": {
+        "value": 0.381897861992056
+      },
+      "pants": {
+        "value": 0.010811632384226569
+      },
+      "shorts": {
+        "value": 0.012377140541091056
+      },
+      "skirts": {
+        "value": 0.004357077718105486
+      },
+      "sleepwear": {
+        "value": 0.005083257337793745
+      },
+      "sweaters": {
+        "value": 0.006743337724177352
+      },
+      "swim": {
+        "value": 0.0038419968250727465
+      },
+      "tops_and_tees": {
+        "value": 0.014358090992001582
+      },
+      "underwear": {
+        "value": 0.00037153375891067764
+      }
+    }
+  },
+  {
+    "kmeans_model5.centroid_id": {
+      "value": "Cluster #5"
+    },
+    "kmeans_model5.avg_qty": {
+      "accessories": {
+        "value": 0.04091810430299625
+      },
+      "active": {
+        "value": 0.02708705135831771
+      },
+      "cancel": {
+        "value": 0.035693039857228166
+      },
+      "capris": {
+        "value": 0.00014872099940461264
+      },
+      "dresses": {
+        "value": 0.007981360301408225
+      },
+      "fashion": {
+        "value": 0.013950029744200794
+      },
+      "jackets": {
+        "value": 0.0010906206623036048
+      },
+      "jeans": {
+        "value": 0.03470156652785729
+      },
+      "outerwear": {
+        "value": 0.015665278604005045
+      },
+      "pants": {
+        "value": 0.023953995637518315
+      },
+      "shorts": {
+        "value": 0.02111838191552526
+      },
+      "skirts": {
+        "value": 0.005651397977393967
+      },
+      "sleepwear": {
+        "value": 0.01130279595478936
+      },
+      "sweaters": {
+        "value": 0.012393416617093058
+      },
+      "swim": {
+        "value": 0.009418996628990203
+      },
+      "tops_and_tees": {
+        "value": 0.028306563553441536
+      },
+      "underwear": {
+        "value": 0.7750148720999446
+      }
+    }
+  }
+]
