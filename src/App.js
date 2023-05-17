@@ -1,34 +1,21 @@
 import React, { useState, useRef, useMemo, memo, useEffect } from "react";
 import { AgGridReact } from "ag-grid-react";
+import { removeStyles, loadStylesheet } from "./helpers";
+import { CustomCell } from "./components/gridCell/customCell";
 
 import "ag-grid-community/styles/ag-grid.css";
 import "ag-grid-community/styles/ag-theme-alpine.css";
 
-const CustomCell = (props) => {
-  const { value, eGridCell } = props;
-  eGridCell.style.backgroundColor = `rgba(255, 0, 0, ${+value + 0.05})`;
-  return value;
-};
-
-const removeStyles = async function () {
-  const links = document.getElementsByTagName("link");
-  while (links[0]) links[0].parentNode.removeChild(links[0]);
-};
-
-const loadStylesheet = function (link) {
-  if (!link) return;
-
-  const linkElement = document.createElement("link");
-
-  linkElement.setAttribute("rel", "stylesheet");
-  linkElement.setAttribute("href", link);
-
-  document.getElementsByTagName("head")[0].appendChild(linkElement);
-};
-
 const App = ({ data, config, queryResponse }) => {
   const gridRef = useRef();
-  const { showRowNumbers, customTheme, loadCustomTheme, limitRows } = config;
+  const {
+    showRowNumbers,
+    showFullFieldName,
+    customTheme,
+    loadCustomTheme,
+    limitRows,
+    query_fields: { pivots: pivotsConfig, measures: measuresConfig },
+  } = config;
   const { pivots, fields } = queryResponse;
   const { dimensions, measures } = fields;
 
@@ -50,24 +37,38 @@ const App = ({ data, config, queryResponse }) => {
     })
   );
 
-  console.log({ rowData, pivots });
+  console.log({ rowData, pivots, config });
 
   const [columnDefs, setColumnDefs] = useState(() => [
     {
       headerName: "",
       valueGetter: "node.rowIndex + 1",
       field: "Row ID",
-      floatingFilter: false,
       filter: false,
       hide: !showRowNumbers,
       width: 20,
     },
-    ...dimensions.map(({ field_group_variant }) => ({
-      field: field_group_variant,
+    ...dimensions.map(({ field_group_variant, label }) => ({
+      headerName: pivotsConfig[0].field_group_variant,
+      children: [
+        {
+          field: field_group_variant,
+          headerName: showFullFieldName ? label : field_group_variant,
+          width: 110,
+        },
+      ],
     })),
     ...pivots.map(({ key }) => ({
-      field: key,
-      cellRenderer: memo(CustomCell),
+      headerName: key,
+      children: [
+        {
+          headerName: showFullFieldName
+            ? measuresConfig[0].label
+            : measuresConfig[0].field_group_variant,
+          field: key,
+          cellRenderer: memo(CustomCell),
+        },
+      ],
     })),
   ]);
 
@@ -82,7 +83,7 @@ const App = ({ data, config, queryResponse }) => {
         debounceMs: 1000,
         buttons: ["apply", "clear", "cancel", "reset"],
       },
-      floatingFilter: true,
+      width: showFullFieldName ? 220 : 110,
     }),
     []
   );
@@ -106,6 +107,9 @@ const App = ({ data, config, queryResponse }) => {
           columnDefs={columnDefs}
           animateRows={true}
           defaultColDef={defaultColDef}
+          rowHeight={"21"}
+          headerHeight={showFullFieldName ? "80" : "28"}
+          groupHeaderHeight={"28"}
         />
       </div>
     </div>

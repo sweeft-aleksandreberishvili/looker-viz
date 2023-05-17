@@ -3,6 +3,8 @@ import ReactDOM from "react-dom/client";
 import "./index.css";
 import App from "./App";
 import data from "./data.json";
+import config from "./config.json";
+import queryResponse from "./response.json";
 
 const tableOptions = {
   showRowNumbers: {
@@ -43,7 +45,8 @@ const tableOptions = {
 };
 
 function getConfigOptions(config) {
-  const newOptions = tableOptions;
+  const newOptions = { ...tableOptions };
+  console.log({ newOptions });
 
   if (config.limitDisplayedRows) {
     newOptions["limitRows"] = {
@@ -63,12 +66,23 @@ looker.plugins.visualizations.add({
   label: "React Test",
   create: function (element, config) {
     element.innerHTML = `
-      <style>
-        
-      </style>
-    `;
-
-    let container = element.appendChild(document.createElement("div"));
+    <style>
+      body {
+        font-size: 12px
+      }
+      .ag-theme-alpine .ag-header-cell,
+      .ag-theme-alpine .ag-header-group-cell {
+        padding-left:  8px !important;
+        padding-right:  0px !important;
+      }
+      .ag-header-cell-label {
+        text-overflow: clip;
+        overflow: visible;
+        white-space: normal;
+      }
+    </style>
+  `;
+    const container = element.appendChild(document.createElement("div"));
     container.className = "table-vis";
     container.id = "vis-container";
   },
@@ -85,7 +99,7 @@ looker.plugins.visualizations.add({
 
     console.log({ data, config, queryResponse });
 
-    this.trigger("registerOptions", getConfigOptions(config));
+    this.trigger("registerOptions", { ...getConfigOptions(config) });
     const root = ReactDOM.createRoot(document.getElementById("vis-container"));
     root.render(
       <App data={data} config={config} queryResponse={queryResponse} />
@@ -98,6 +112,6 @@ looker.plugins.visualizations.add({
 // const root = ReactDOM.createRoot(document.getElementById("root"));
 // root.render(
 //   <React.StrictMode>
-//     <App data={data} />
+//     <App data={data} config={config} queryResponse={queryResponse} />
 //   </React.StrictMode>
 // );
